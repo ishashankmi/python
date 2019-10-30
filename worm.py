@@ -43,4 +43,4 @@ if(os.path.isdir(inp)):
 	except Exception as e:
 			print(e);
 else:
-	print(Fore.RED+"\n\"{0}\" is not a dir".format(inp));
+	print(Fore.RED+"\n\"{0}\" is not a dir".format(inp))
