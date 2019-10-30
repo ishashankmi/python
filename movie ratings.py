@@ -21,4 +21,4 @@ mat=re.findall(r'Rating.*([0-9]\.[0-9]\/[0-9][0-9])\s',resp.read().decode());
 if not mat:
 	print('\nSorry can\'t find ratings of '+mov.upper());
 else:
-	print('\nRatings of "'+mov.title()+'" is '+mat[0]);
+	print('\nRatings of "'+mov.title()+'" is '+mat[0])
