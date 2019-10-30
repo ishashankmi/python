@@ -3,7 +3,7 @@
 ##### If you like my code and want to know more about it then you can contact me at *x3sam153@protonmail.com*
 
 ---
-* ##### *movie ratings* :- This program will search any movie's rating you are willing to find. If it find's the given move then it will give you rating straight from IMDB.
+* ##### *movie ratings* :- This program will search any movie rating you are willing to find. If it find's the given move then it will give you rating straight from IMDB.
 ---
 * ##### *worm.py* :- This program is highly dangerous, it will ask you for the directory path and will corrupt the file's and sub folder of this given directory.
 ---
