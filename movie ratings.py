@@ -6,8 +6,8 @@ while True:
 	if(len(mov)>0):
 		break;
 try:
-	fuck={'q':mov};
-	val=urllib.parse.urlencode(fuck);
+	srh={'q':mov};
+	val=urllib.parse.urlencode(srh);
 	url='https://www.google.com/search?'+val;
 	headers={};
 	headers['User-Agent']='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36';
