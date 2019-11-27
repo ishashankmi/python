@@ -5,7 +5,7 @@ import re;
 from colorama import Fore;
 
 print(Fore.YELLOW+"""\nCaution!! You Are About To Change The File And The Folders.
-Do This For The Practical Purpose only On A Testing Folders Only!!\n""");  
+Do This For The Practical Purpose only On A Testing Folders!!\n""");  
 
 inp=input(Fore.BLUE+"Enter The Folder You Want To Corrupt: ");
 if(os.path.isdir(inp)):
